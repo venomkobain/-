@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b93d4226-baac-48fd-ba2a-2d3f5825edd8" name="Default Changelist" comment="" />
+    <list default="true" id="b93d4226-baac-48fd-ba2a-2d3f5825edd8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Primes" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Primes" />
       <module name="lab1.1" />
       <method v="2">
@@ -63,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581964407060</updated>
       <workItem from="1592822592197" duration="1764000" />
+      <workItem from="1592830683278" duration="921000" />
     </task>
     <servers />
   </component>
@@ -74,6 +80,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1592823792867" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592831095782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592831095782" />
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1592831090717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592831090717" />
     <state x="463" y="166" key="SettingsEditor" timestamp="1592823887361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,6 +1,6 @@
 public class Palindrome {
     public static void main(String[] args) {
-        for (int i = 0; i < args.length; i++) {     //считываем все параметры
+        for (int i = 0; i < args.length; i++) {     //считываем параметры
             String s = args[i];
             if (isPalindrome(s)){                   //палиндром?
                 System.out.print(s+" ");              //вывод
